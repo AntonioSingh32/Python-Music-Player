@@ -6,9 +6,10 @@ Time On Project: **-** hours
 
 ## Goals For Program
 
-- [ ] User can view a list of their music files in the form of the titles of songs and not file names.
-- [ ] User can skip, rewind, stop and play songs.
-- [ ] Labels list title of song, artist and album in which the music track is from.
+- [✓] User can view a list of their music files in the form of the titles of songs and not file names.
+- [✓] User can skip, rewind, stop and play songs.
+- [✓] Labels list title of song, artist and album in which the music track is from.
+- [✓] Labels are updated after every skip, rewind and stop/play
 - [ ] Album Art is used from ID3 module tags of ACPI.
 - [ ] More defined visual design as current one is too simplistic 
 
