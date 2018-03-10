@@ -1,4 +1,4 @@
-# Python Project  - *Music Player*
+# Python Project  - *Python Music Player*
 
 **Python Music Player** is a music player programmed in Python that utilizes the Mutagen, Tkinter and Pygame modules to allow users to play music from local directories.
 
